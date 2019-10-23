@@ -172,6 +172,7 @@
 ### Datasets
 
 - [DeepFashion2 Dataset](https://github.com/switchablenorms/DeepFashion2), DeepFashion2 is a comprehensive fashion dataset.
+- [METU Trademark Dataset](http://kovan.ceng.metu.edu.tr/LogoDataset/), METU Trademark Dataset is the largest public trademark dataset for trademark/logo retrieval.
  
 ### Useful Package 
 
